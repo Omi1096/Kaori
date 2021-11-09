@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://ibb.co/wQ4GK21"><img src="https://user-images.githubusercontent.com/77143046/137690528-2aa28596-bf3d-443d-86a2-179badd15378.jpg" alt="whatsapp-botto-rin-init" border="0"></a>
 
-# **RIN : Next Level Void WhatsApp BOTTO**
+# **KAORI : Next Level Void WhatsApp BOTTO**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/oreki-san/rin/badge)](https://www.codefactor.io/repository/github/oreki-san/rin)
 
