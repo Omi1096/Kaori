@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://ibb.co/wQ4GK21"><img src="https://user-images.githubusercontent.com/77143046/137690528-2aa28596-bf3d-443d-86a2-179badd15378.jpg" alt="whatsapp-botto-rin-init" border="0"></a>
+<a href="https://ibb.co/wQ4GK21"><img src="https://user-images.githubusercontent.com/77143046/137690528-2aa28596-bf3d-443d-86a2-179badd15378.jpg" alt="whatsapp-botto-kaori-init" border="0"></a>
 
 # **KAORI : Next Level Void WhatsApp BOTTO**
 
@@ -12,7 +12,7 @@
 Button : If you are deploying normally
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Omi1096/KAORI)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Omi1096/Kaori)
 
 Button : If you are deploying from a fork
 
@@ -34,7 +34,7 @@ Button : If you are deploying from a fork
 ## 💻 Deploy/Hosting Guide
 
 -   Section Moved to
-    [RIN-Guides](https://github.com/Omi1096/Kaori-Guide/blob/main/README.md)
+    [Kaori-Guides](https://github.com/Omi1096/Kaori-Guide/blob/main/README.md)
 
 ## 🍥 Features of the Repo
 
