@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://ibb.co/wQ4GK21"><img src="https://in.pinterest.com/pin/605241637427075975/.jpg" alt="whatsapp-botto-kaori-init" border="0"></a>
+<a href="https://ibb.co/wQ4GK21"><img src="https://user-images.githubusercontent.com/77143046/140905936-3e07ce8a-63c8-4d03-8455-f9f0a123c0d6.jpg" border="0"></a>
 
 # **KAORI : Next Level Void WhatsApp BOTTO**
 
